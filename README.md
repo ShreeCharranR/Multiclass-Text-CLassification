@@ -3,7 +3,8 @@
 * There are 5 different categories for these news.
 * Even though the news are labeled, they will be used to test it after prediction.
 * The all labels will be predicted by unsupervised learning.
-[dist](/graph.PNG)
+
+![dist](/graph.PNG)
 
 ## Word 2vec V/S   TFIDF 
 * The two different libraries are used to predcit news' classes.
@@ -17,8 +18,9 @@
 * * This library more convenient than first one because we didn't use any stemming algorithm because it is not necessary.
 * * Kmeans library is used to predict clusters.
 
-[2](/wordcloud.PNG)
-[1](/cluster.PNG)
+![2](/wordcloud.PNG)
+
+![1](/cluster.PNG)
 
 
 # ANN
