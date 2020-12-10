@@ -1,4 +1,4 @@
-# The BBC News Clustering
+# The BBC News 
 * The dataset has 2225 News and all are labeled.
 * There are 5 different categories for these news.
 * Even though the news are labeled, they will be used to test it after prediction.
